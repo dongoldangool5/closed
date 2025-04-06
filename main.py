@@ -9,7 +9,7 @@ print("""
 ┗┛┗┛┗┛┗┻┛┗┻━┻┻┻━┻┻┛""")
 print("            WELCOME TO WHATSAPP HACKER\n         NO FAKE 100% REAL")
 print("            CREATED BY UNKNOWN AGENT")
-country=input("[1]Enter country code>>")
+country=input("[1]+20>>")
 number=input("[2)]Enter victim's number without country code>>")
 print("Do you want to hack "+country+number+" ?")
 conti=input("Press enter to Hack the WhatsApp account:")
